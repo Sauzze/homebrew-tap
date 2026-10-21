@@ -1,6 +1,6 @@
 cask "smolcorp" do
-  version "1.11.0"
-  sha256 "4008a1eee37927edbe6441f04a1f7273a9f07b5e5bd8b07810cf5f1f9bbd70c4"
+  version "1.12.0"
+  sha256 "4a8f8cd26368c31ebd6a05400b1ea0be93497cdb1b9b8c73fe04bfd01a28f6c1"
 
   url "https://github.com/Sauzze/smolcorp/releases/download/v#{version}/Smolcorp.zip"
   name "Smolcorp"
